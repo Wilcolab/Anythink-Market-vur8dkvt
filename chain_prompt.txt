@@ -1,0 +1,5 @@
+Step 1: Write a JavaScript function named `toKebabCase` that takes a single string argument.
+
+Step 2: Ensure the function converts the input string to kebab-case, replacing spaces and underscores with hyphens, and making all letters lowercase.
+
+Step 3: Update the function so that it also handles camelCase and PascalCase inputs, inserting hyphens between words appropriately.
